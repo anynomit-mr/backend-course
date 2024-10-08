@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // const express = require('express');
 //  const app = express();
 
@@ -94,3 +95,6 @@ app.post('/upload', (req, res) => {
 // Start the server
 const x = 80 ;
 app.listen(x);
+=======
+Console.log('Hello Backend Development');
+>>>>>>> 08d8a6fbbbaf9bc0618b184b88eb3e99382980f4
